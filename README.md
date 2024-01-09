@@ -29,13 +29,17 @@ SAR and optical data fusion technology
 
 4. Ecological environment monitoring system
 
+5. sar to optical image
+
+6.samModal using in remote-sensing
+
 This project is developed and manufactured by the Aerospace Information Laboratory of Hefei University of Technology
 
 Using language C++
 
 Framework is QT
 
-Used the relevant open-source library opencv gdal cuda
+Used the relevant open-source library opencv gdal cuda samModal onnx
 
 If you are interested in this project or have any other questions
 
