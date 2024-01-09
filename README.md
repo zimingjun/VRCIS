@@ -31,7 +31,7 @@ SAR and optical data fusion technology
 
 5. sar to optical image
 
-6.samModal using in remote-sensing
+6.sam using in remote-sensing
 
 This project is developed and manufactured by the Aerospace Information Laboratory of Hefei University of Technology
 
@@ -39,7 +39,7 @@ Using language C++
 
 Framework is QT
 
-Used the relevant open-source library opencv gdal cuda samModal onnx
+Used the relevant open-source library opencv gdal cuda sam onnx
 
 If you are interested in this project or have any other questions
 
