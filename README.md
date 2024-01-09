@@ -28,3 +28,17 @@ SAR and optical data fusion technology
 3. Disaster emergency monitoring system
 
 4. Ecological environment monitoring system
+
+This project is developed and manufactured by the Aerospace Information Laboratory of Hefei University of Technology
+
+Using language C++
+
+Framework is QT
+
+Used the relevant open-source library opencv gdal cuda
+
+If you are interested in this project or have any other questions
+
+Please contact us
+
+The main person in charge of the project is Tu Ziming, and the email is 1186716601@qq.com
