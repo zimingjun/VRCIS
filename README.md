@@ -3,7 +3,7 @@ Facing the urgent need for multi-source remote sensing data processing, focusing
 
 Research and develop key technologies for SAR satellite data processing and fusion of SAR and optical data based on the characteristics of SAR satellite constellation data. On this basis, integrate existing remote sensing data processing algorithms and develop a SAR satellite data fusion and collaborative processing software system with independent intellectual property rights for the Tianxian SAR constellation.
 
-1. SAR constellation remote sensing data processing system
+# 1. SAR constellation remote sensing data processing system
 
 SAR data preprocessing technology
 
@@ -21,17 +21,19 @@ SAR data change detection technology
 
 SAR data target recognition technology
 
-2. SAR and optical multi-source remote sensing data fusion processing and collaborative perception system
+# 2. SAR and optical multi-source remote sensing data fusion processing and collaborative perception system
 
 SAR and optical data fusion technology
 
-3. Disaster emergency monitoring system
+# 3. Disaster emergency monitoring system
 
-4. Ecological environment monitoring system
+# 4. Ecological environment monitoring system
 
-5. sar to optical image
+# 5. sar to optical image
 
-6.sam using in remote-sensing
+# 6.sam using in remote-sensing
+
+# 7.Exclusive remote sensing segmentation based on regional and cluster levels
 
 This project is developed and manufactured by the Aerospace Information Laboratory of Hefei University of Technology
 
