@@ -1,1 +1,6 @@
-
+gui
+Innovatively proposed a method of loading large images into blocks, 
+as well as multi-core loading of images, to achieve fast loading of large images (larger than 1Gb)
+Create a data structure for image information and manage it layer by layer
+Create a data structure for tool information, manage and use it by tool type
+Hidden core algorithm
