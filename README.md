@@ -1,4 +1,5 @@
 # VRCIS
+Architecture Explanation http://zimingjun.top/index.php/2023/12/19/vrcis_v2-0-framework/
 Facing the urgent need for multi-source remote sensing data processing, focusing on the key issues of Synthetic Aperture Radar (SAR) data and collaborative processing of multi-source remote sensing data, researching key technologies for feature extraction and application of constellation SAR satellite data, as well as the expansion of SAR and optical data fusion application technology services, And based on this, we will develop a Visual Radar Constellation Interpretation System (VRCIS) with independent intellectual property rights.
 
 Research and develop key technologies for SAR satellite data processing and fusion of SAR and optical data based on the characteristics of SAR satellite constellation data. On this basis, integrate existing remote sensing data processing algorithms and develop a SAR satellite data fusion and collaborative processing software system with independent intellectual property rights for the Tianxian SAR constellation.
